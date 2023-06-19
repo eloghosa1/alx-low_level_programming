@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - entry point
- * Retuen: Always 0 (success)
+ * main - This program will assign a random number to the variable n each time it is executed.
+ * Return: Always 0 (success)
  */
 
 
